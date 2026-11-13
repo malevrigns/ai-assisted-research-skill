@@ -16,9 +16,9 @@
 ## 仓库内容
 
 - [SKILL.md](SKILL.md) 提供工作流和交付要求。
-- [references/](references/) 提供查新、实验、点子交付和可复用提示。
+- [references/](references/) 提供查新与评分、实验设计、研究取舍、点子交付和可复用提示。
 - [templates/](templates/) 提供结论卡、预测表、研究日志和短文骨架。
-- [FBNO 示例](examples/FBNO_全流程示例.md) 演示如何从一个假设走到可证伪的实验方案。
+- [FBNO 示例](examples/FBNO_全流程示例.md) 演示如何从一个假设走到损失函数、伪代码、消融和可证伪的实验方案。
 
 ## 许可证
 
